@@ -1,16 +1,13 @@
-### Hi there 👋
+# 🙋‍♂️ Hi there, I’m **Nikhil** 
 
-<!--
-**reyrinbafs/reyrinbafs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I’m a designer who also develop or vice-versa.<sup> [Portfolio Link](https://ux-design-nikhil.notion.site/nikhil-tiwari-44bd701a143a43ef898248168632b6e1?pvs=4)</sup>
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on **Relook**
+* **What is Relook?**
+   The E-Waste Facility Locator is a web-based platform that aims to provide users with a user-friendly interface to locate nearby e-waste collection and recycling facilities. The platform encourages responsible e-waste disposal by offering educational content, a gamified experience, and a reward system for users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning `UI/UX design` & `Full Stack development`
+
+### 👯 I’m looking to collaborate on **Frontend Projects**
+
+### 📫 How to reach me: [tiwarinikhil808@gmail.com](mailto:tiwarinikhil808@gmail.com)
